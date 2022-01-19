@@ -35,3 +35,12 @@ python manage.py migrate
 ```
 python manage.py runserver
 ```
+
+### 3. Task 1: Database entry
+
+To execute the db entry script, go inside the `utils` sub directory and run the `dbentry.py` file
+
+```
+cd utils
+python dbentry.py
+```
